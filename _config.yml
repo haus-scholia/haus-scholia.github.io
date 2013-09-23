@@ -1,3 +1,103 @@
 name: Haus Of Scholia
 markdown: redcarpet
+redcarpet:
+  extensions: [":tables", ":autolink", ":strikethrough", ":lax_spacing", ":superscript", ":highlight", ":quote", ":footnotes"]
 pygments: true
+
+roster:
+- name: Neranna Taitar
+  title: Duchess
+  race: Human
+  profession: Thief
+  craft1: Cook
+  craft2: Huntsman
+- name: Vakanya Dolshynya
+  title: Duchess
+  race: Norn
+  profession: Warrior
+  craft1: Armorsmith
+  craft2: Weaponsmith
+- name: Yori Lawr
+  title: Duchess
+  race: Norn
+  profession: Mesmer
+  craft1: Artificer
+  craft2: Jeweler
+- name: Akaria Rubeathin
+  title: Duchess
+  race: Human
+  profession: Necromancer
+  craft1: Tailor
+  craft2:
+- name: Serigga
+  title: Duchess
+  race: Asura
+  profession: Guardian
+  craft1:
+  craft2:
+- name: Feairraelly Shaeln
+  title: Duchess
+  race: Norn
+  profession: Ranger
+  craft1: Leatherworker
+  craft2:
+- name: Zendella
+  title: Dame
+  race: Human
+  profession: Mesmer
+  craft1:
+  craft2:
+- name: Karistany
+  title: Dame
+  race: Human
+  profession: Guardian
+  craft1:
+  craft2:
+- name: Selia Jade
+  title: Dame
+  race: Sylvari
+  profession: Necromancer
+  craft1:
+  craft2:
+- name: Ash Clawburn
+  title: Baron
+  race: Charr
+  profession: Engineer
+  craft1: Huntsman
+  craft2: Leatherworker
+- name: Eoghan the Limber
+  title: Baron
+  race: Sylvari
+  profession: Thief
+  craft1:
+  craft2:
+- name: Daeron Falconer
+  title: Knight
+  race: Human
+  profession: Warrior
+  craft1:
+  craft2:
+- name: Brand Formion
+  title: Knight
+  race: Norn
+  profession: Ranger
+  craft1:
+  craft2:
+- name: Ithronaru
+  title: Knight
+  race: Asura
+  profession: Elementalist
+  craft1:
+  craft2:
+- name: Vorastrasa
+  title: Duke
+  race: Human
+  profession: Necromancer
+  craft1:
+  craft2:
+- name: Valastor
+  title: Duke
+  race: Human
+  profession: Mesmer
+  craft1:
+  craft2:

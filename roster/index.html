@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Roster :: Haus Of Scholia"
+---
+
+<div id="roster">
+	<h1>Roster</h1>
+    <ul id="rosterlist">
+      {% for item in site.roster %}
+      	<li>
+      	<p>
+		<h3><span class="title">{{ item.title }} {{ item.name }}</span></h3>
+		<br />
+		{{ item.profession }}, {{ item.craft1 }}, {{ item.craft2 }}
+		</p>
+		</li>
+      {% endfor %}
+    </ul>
+</div>
