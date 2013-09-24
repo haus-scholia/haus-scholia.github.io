@@ -6,14 +6,16 @@ title: "Roster :: Haus Of Scholia"
 <div id="roster">
 	<h1>Roster</h1>
     <ul id="rosterlist">
-      {% for item in site.roster %}
-      	<li>
-      	<p>
-		<h3><span class="title">{{ item.title }} {{ item.name }}</span></h3>
-		<br />
-		{{ item.profession }}, {{ item.craft1 }}, {{ item.craft2 }}
-		</p>
-		</li>
-      {% endfor %}
+    	{% for member in site.roster %}
+			<li>
+			<p><strong>{{ member.name }}</strong>, {{ member.race }} {{ member.profession }}<br />
+			{% if member.crafts != empty %}
+				{% for item in member.crafts %}
+					{{ item.craft }}{% unless forloop.last %}, {% endunless %}
+				{% endfor %}
+			{% endif %}
+			</p>
+			</li>
+    	{% endfor %}
     </ul>
 </div>

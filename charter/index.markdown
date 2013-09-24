@@ -7,17 +7,17 @@ title: "Charter :: Haus Of Scholia"
 
 The noble fellowship. For exploration, knowledge, fun and friendship.
 
-##House Rules
-
-###Decorum
+##Decorum
 1. Active discussion is encouraged.
 2. Full sentences are greatly preferred to teh txt.
 3. Hateful or offensive language of any kind, in any situation, will not be tolerated.
+<br/><br/>
 
-###Titles & Representation
+##Titles & Representation
 1. Representation is not required for membership, but is encouraged.
 2. Representation is required when participating in guild events.
 3. Title advancement will not be considered unless a member regularly represents the guild.
+<br/><br/>
 
 ##Heraldry
 A knot of crimson and gold representing knowledge and adventure, surrounded by an ebony crown representing fellowship.
@@ -27,13 +27,12 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 ##Goals
 1. Guild Armorer
 2. Economy 1
+<br/><br/>
 
-###Events
+##Events
 Plans are in the works! For now, log in, party up, and earn influence.
 
-##Positions
-
-###Titles & Roles
+##Titles & Roles
 
 | Title                 | #     | Permissions                      | Equivalent
 |:---                   |   ---:|:---                              |:---
@@ -42,8 +41,9 @@ Plans are in the works! For now, log in, party up, and earn influence.
 | Count/Countess        | 15    | ~.~.C.~.~.F.G.H.I.J.K.L.M.N.~    | Guild Commander
 | Baron/Baroness        | 20    | ~.~.C.~.~.~.~.H.~.J.K.L.~.~.~    | Respected Member
 | Knight/Dame           | 60    | ~.~.C.~.~.~.~.~.~.J.K.L.~.~.O    | Member
+<br/>
 
-###Permissions
+##Permissions
 - A: Edit Ranks: Create, delete, and edit the properties of ranks lower than this one.
 - B: Edit Guild Emblem: Change the appearance of the guild emblem as it appears on all armor, flags, banners, and objects.
 - C: Claim/Unclaim WvW Forts: Allowed to change which fortified area is being held by the guild in World vs World battles.
