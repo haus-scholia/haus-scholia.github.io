@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+
+<div class="post">
+<p>Level {{ page.level }} {{ page.sex }} {{ page.race }} {{ page.profession }}<br />
+{% if page.crafts != empty %}
+	{% for item in page.crafts %}
+		{{ item.craft }}{% unless forloop.last %}, {% endunless %}
+	{% endfor %}
+{% endif %}<br />
+<br />
+{{ content }}
+</div>

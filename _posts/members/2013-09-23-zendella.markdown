@@ -1,0 +1,12 @@
+---
+layout: member
+categories: members
+title: "Zendella"
+sex: Female
+race: Human
+profession: Mesmer
+rank: Duchess
+level: 80
+crafts:
+- craft: Cook
+---

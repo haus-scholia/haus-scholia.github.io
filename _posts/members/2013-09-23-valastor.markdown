@@ -1,0 +1,11 @@
+---
+layout: member
+categories: members
+title: "Valastor"
+sex: Male
+race: Human
+profession: Mesmer
+rank: Duke
+level:
+crafts:
+---

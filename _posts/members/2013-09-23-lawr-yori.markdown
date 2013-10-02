@@ -1,0 +1,13 @@
+---
+layout: member
+categories: members
+title: "Yori Lawr"
+sex: Female
+race: Norn
+profession: Mesmer
+rank: Duchess
+level: 11
+crafts:
+- craft: Artificer
+- craft: Jeweler
+---

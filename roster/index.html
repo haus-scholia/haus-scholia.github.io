@@ -6,14 +6,9 @@ title: "Roster :: Haus Of Scholia"
 <div id="roster">
 	<h1>Roster</h1>
     <ul id="rosterlist">
-    	{% for member in site.roster %}
+    	{% for post in site.categories['members'] reversed %}
 			<li>
-			<p><strong>{{ member.name }}</strong>, {{ member.race }} {{ member.profession }}<br />
-			{% if member.crafts != empty %}
-				{% for item in member.crafts %}
-					{{ item.craft }}{% unless forloop.last %}, {% endunless %}
-				{% endfor %}
-			{% endif %}
+			<p><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.race }} {{ post.profession }}<br />
 			</p>
 			</li>
     	{% endfor %}

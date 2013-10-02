@@ -8,15 +8,15 @@ title: "Charter :: Haus Of Scholia"
 The noble fellowship. For exploration, knowledge, fun and friendship.
 
 ##Decorum
-1. Active discussion is encouraged.
-2. Full sentences are greatly preferred to teh txt.
-3. Hateful or offensive language of any kind, in any situation, will not be tolerated.
+* Active discussion is encouraged.
+* Full sentences are greatly preferred to teh txt.
+* Hateful or offensive language of any kind, in any situation, will not be tolerated.
 <br/><br/>
 
 ##Titles & Representation
-1. Representation is not required for membership, but is encouraged.
-2. Representation is required when participating in guild events.
-3. Title advancement will not be considered unless a member regularly represents the guild.
+* Representation is not required for membership, but is encouraged.
+* Representation is required when participating in guild events.
+* Title advancement will not be considered unless a member regularly represents the guild.
 <br/><br/>
 
 ##Heraldry
@@ -24,23 +24,59 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 
 ![coat of arms](http://f.cl.ly/items/3k083y411B0U1g0A2I1c/Screen%20Shot%202013-09-23%20at%2011.35.25.png)
 
-##Goals
-1. Guild Armorer
-2. Economy 1
+##Guild Benefits
+* Politics II
+* Architecture II
+* Stash
+* Armorer Contract
+<br /><br />
+
+##Guild Advancement Plan
+1. Economy I
+1. Art of War I
+1. Politics III
+1. Weapons Contract
+1. Architecture III
+1. Architecture IV
+1. Treasure Trove
+1. Art of War II
+1. Economy II
+1. Economy III
+1. Art of War III
+1. Politics IV
+1. Economy IV
+1. Art of War IV
+1. Art of War V
+1. Bounties Unlock
+1. Economy V
+1. Politics V
+1. Architecture V
+1. Deep Cave
+1. Economy VI
+1. Treks Unlock
+1. Politics VI
+1. Rushes Unlock
+1. Art of War VI
+1. Challenges Unlock
+1. Architecture VI
+1. Puzzles Unlock
 <br/><br/>
 
 ##Events
-Plans are in the works! For now, log in, party up, and earn influence.
+Guild nights are Saturdays, 9pm. Log in, join Steam voice chat, party up in teams of 2-3, and earn influence!
+
+On occasion we will tackle dungeons as a guild, or hold roleplaying meetings at headquarters in Divinity's Reach.
+<br /><br />
 
 ##Titles & Roles
 
 | Title                 | #     | Permissions                      | Equivalent
 |:---                   |   ---:|:---                              |:---
 | Duke/Duchess          | 2     | A.B.C.D.E.F.G.H.I.J.K.L.M.N.~    | Guild Leader
-| Marquis/Marquise      | 3     | ~.~.C.D.E.F.G.H.I.J.K.L.M.N.~    | Guild Manager
-| Count/Countess        | 15    | ~.~.C.~.~.F.G.H.I.J.K.L.M.N.~    | Guild Commander
-| Baron/Baroness        | 20    | ~.~.C.~.~.~.~.H.~.J.K.L.~.~.~    | Respected Member
-| Knight/Dame           | 60    | ~.~.C.~.~.~.~.~.~.J.K.L.~.~.O    | Member
+| Marquis/Marquise      | 6     | ~.~.C.D.E.F.G.H.I.J.K.L.M.N.~    | Guild Manager
+| Count/Countess        | 16    | ~.~.C.~.~.F.G.H.I.J.K.L.M.N.~    | Guild Commander
+| Baron/Baroness        | 24    | ~.~.C.~.~.~.~.H.~.J.K.L.~.~.~    | Respected Member
+| Knight/Dame           | 52    | ~.~.C.~.~.~.~.~.~.J.K.L.~.~.O    | Member
 <br/>
 
 ##Permissions

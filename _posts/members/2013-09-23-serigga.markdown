@@ -1,0 +1,11 @@
+---
+layout: member
+categories: members
+title: "Serigga"
+sex: Female
+race: Asura
+profession: Guardian
+rank: Duchess
+level: 5
+crafts:
+---
