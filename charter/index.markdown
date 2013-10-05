@@ -27,13 +27,13 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 ##Guild Benefits
 * Politics II
 * Architecture II
+* Economy I
+* Art of War I
 * Stash
 * Armorer Contract
 <br /><br />
 
 ##Guild Advancement Plan
-1. Economy I
-1. Art of War I
 1. Politics III
 1. Weapons Contract
 1. Architecture III
@@ -63,7 +63,7 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 <br/><br/>
 
 ##Events
-Guild nights are Saturdays, 9pm. Log in, join Steam voice chat, party up in teams of 2-3, and earn influence!
+Guild nights are Saturdays, 10pm. Log in, join Steam voice chat, party up in teams of 2-3, and earn influence!
 
 On occasion we will tackle dungeons as a guild, or hold roleplaying meetings at headquarters in Divinity's Reach.
 <br /><br />
