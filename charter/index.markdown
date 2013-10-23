@@ -25,15 +25,17 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 ![coat of arms](http://f.cl.ly/items/3k083y411B0U1g0A2I1c/Screen%20Shot%202013-09-23%20at%2011.35.25.png)
 
 ##Guild Benefits
-* Politics II
-* Architecture II
-* Economy I
-* Art of War I
-* Stash
-* Armorer Contract
+1. Architecture II
 <br /><br />
 
 ##Guild Advancement Plan
+1. Stash
+1. Politics I
+1. Emblem
+1. Politics II
+1. Armorer Contract
+1. Economy I
+1. Art of War I
 1. Politics III
 1. Weapons Contract
 1. Architecture III
