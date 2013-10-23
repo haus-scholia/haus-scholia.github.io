@@ -26,10 +26,11 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 
 ##Guild Benefits
 1. Architecture II
+1. Stash
 <br /><br />
 
 ##Guild Advancement Plan
-1. Stash
+1. Workshop
 1. Politics I
 1. Emblem
 1. Politics II
