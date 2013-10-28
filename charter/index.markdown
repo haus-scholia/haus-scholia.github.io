@@ -9,7 +9,7 @@ The noble fellowship. For exploration, knowledge, fun and friendship.
 
 ##Decorum
 * Active discussion is encouraged.
-* Full sentences are greatly preferred to teh txt.
+* In meetings, full sentences are greatly preferred to teh txt.
 * Hateful or offensive language of any kind, in any situation, will not be tolerated.
 <br/><br/>
 
@@ -24,19 +24,19 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 
 ![coat of arms](http://f.cl.ly/items/3k083y411B0U1g0A2I1c/Screen%20Shot%202013-09-23%20at%2011.35.25.png)
 
-##Guild Benefits
-1. Politics I
-1. Economy I
-1. Architecture II
-1. Stash
-1. Workshop
+##Benefits
+* Politics I
+* Economy I
+* Art of War I
+* Architecture II
+* Workshop
+* Stash
+* Emblem
 <br /><br />
 
-##Guild Advancement Plan
-1. Emblem
+##Advancement Plan
 1. Politics II
 1. Armorer Contract
-1. Art of War I
 1. Politics III
 1. Weapons Contract
 1. Architecture III
@@ -66,9 +66,25 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 <br/><br/>
 
 ##Events
-Guild nights are Saturdays, 10pm. Log in, join Steam voice chat, party up in teams of 2-3, and earn influence!
+Guild nights are Saturdays, 10pm. Log in, join Steam voice chat, and party up!
 
-On occasion we will tackle dungeons as a guild, or hold roleplaying meetings at headquarters in Divinity's Reach.
+In particular, we should be working on:
+
+* Events
+* Dungeoneering
+* Jump Puzzling
+* WvW Campaigning
+
+In time, we will also work on:
+
+* Bounties
+* Treks
+* Rushes
+* Challenges
+* Puzzles
+
+On occasion we will also hold meetings at the headquarters in Divinity's Reach.
+
 <br /><br />
 
 ##Titles & Roles
