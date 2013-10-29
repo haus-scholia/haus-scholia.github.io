@@ -1,4 +1,4 @@
-name: Haus Of Scholia
+name: Haus Scholia
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]

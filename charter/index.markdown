@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Charter :: Haus Of Scholia"
+title: "Charter :: Haus Scholia"
 ---
 
 #Charter
