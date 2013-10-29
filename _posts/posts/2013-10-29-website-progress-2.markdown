@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website progress"
+title: "Website progress part 2"
 date: 2013-10-29 16:50:49
 categories: news
 ---
