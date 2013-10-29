@@ -51,7 +51,7 @@ On occasion we will also hold meetings at headquarters, in Divinity's Reach.
 
 ##Benefits
 <ul class="square">
-<li>Politics I</li>
+<li>Politics II</li>
 <li>Art of War I</li>
 <li>Economy I</li>
 <li>Architecture II</li>
@@ -61,7 +61,6 @@ On occasion we will also hold meetings at headquarters, in Divinity's Reach.
 </ul>
 
 ##Advancement Plan
-1. Politics II
 1. Armorer Contract
 1. Politics III
 1. Weapons Contract
