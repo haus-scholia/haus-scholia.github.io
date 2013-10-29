@@ -37,17 +37,16 @@ In particular, we should be working on:
 <li>PvP Team Arenas</li>
 </ul>
 
-In time, we will also work on Guild Missions:
+In time, we will also work on Guild Missions (Bounties, Treks, Rushes, Challenges and Puzzles).
 
+On occasion we will hold meetings at headquarters, in Divinity's Reach.
+
+##Long-term goals
 <ul class="square">
-<li>Bounties</li>
-<li>Treks</li>
-<li>Rushes</li>
-<li>Challenges</li>
-<li>Puzzles</li>
+<li>Maxed upgrades</li>
+<li>Guild Missions</li>
+<li>Full Tier 2 membership</li>
 </ul>
-
-On occasion we will also hold meetings at headquarters, in Divinity's Reach.
 
 ##Benefits
 <ul class="square">
