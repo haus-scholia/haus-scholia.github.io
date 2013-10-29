@@ -2,7 +2,7 @@
 layout: post
 title: "Website progress"
 date: 2013-10-02 14:32:56
-categories: posts
+categories: news
 ---
 
 Here's what has been accomplished:

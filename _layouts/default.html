@@ -6,29 +6,38 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <!-- CSS
+        ================================================== -->
+<!--        <link rel="stylesheet" href="/assets/css/main.css"> -->
+        <!-- Skeleton -->
+        <link rel="stylesheet" href="/assets/css/base.css">
+        <link rel="stylesheet" href="/assets/css/skeleton.css">
+        <link rel="stylesheet" href="/assets/css/layout.css">
+        <link rel="stylesheet" href="/assets/css/docs.css">
+        <!-- custom -->
+        <link rel="stylesheet" href="/assets/css/table.css">
+<!--        <link rel="stylesheet" href="/assets/css/style.css"> -->
 
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/news">News</a>
-            <a class="extra" href="/charter">Charter</a>
-            <a class="extra" href="/roster">Roster</a>
-            <a class="extra" href="/gallery">Gallery</a>
-          </div>
+        <div class="container">
+            <div class="three columns sidebar">
+                <nav>
+                    <h4 class="title"><a href="/">{{ site.name }}</a></h4>
+                    <ul>
+                        <li><a class="extra" href="/news">News</a></li>
+                        <li><a class="extra" href="/charter">Charter</a></li>
+                        <li><a class="extra" href="/roster">Roster</a></li>
+                        <li><a class="extra" href="/gallery">Gallery</a></li>
+                    </ul>
+                </nav>
+            </div>
 
-          {{ content }}
+            <div class="twelve columns offset-by-four content">
+                {{ content }}
+            </div>
 
-          <div class="footer">
-            <small><em>"Never take the journey for knowledge and adventure alone."</em></small>
-          </div>
         </div>
 
     </body>

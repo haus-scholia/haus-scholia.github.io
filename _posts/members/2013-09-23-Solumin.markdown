@@ -1,6 +1,6 @@
 ---
 layout: member
 categories: roster
-title: "Vorastrasa"
-rank: Duke
+title: "Solumin"
+rank: Baron
 ---

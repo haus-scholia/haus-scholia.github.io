@@ -1,6 +1,6 @@
 ---
 layout: member
 categories: roster
-title: "Vorastrasa"
-rank: Duke
+title: "Neranna Taitar"
+rank: Duchess
 ---

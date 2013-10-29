@@ -8,31 +8,57 @@ title: "Charter :: Haus Of Scholia"
 The noble fellowship. For exploration, knowledge, fun and friendship.
 
 ##Decorum
+
 * Active discussion is encouraged.
 * In meetings, full sentences are greatly preferred to teh txt.
 * Hateful or offensive language of any kind, in any situation, will not be tolerated.
-<br/><br/>
 
 ##Titles & Representation
+
 * Representation is not required for membership, but is encouraged.
 * Representation is required when participating in guild events.
 * Title advancement will not be considered unless a member regularly represents the guild.
-<br/><br/>
 
 ##Heraldry
 A knot of crimson and gold representing knowledge and adventure, surrounded by an ebony crown representing fellowship.
 
 ![coat of arms](http://f.cl.ly/items/3k083y411B0U1g0A2I1c/Screen%20Shot%202013-09-23%20at%2011.35.25.png)
 
+##Events
+Guild nights are Saturdays, 10pm. Log in, join Steam voice chat, and party up!
+
+In particular, we should be working on:
+
+<ul class="square">
+<li>Events</li>
+<li>Dungeoneering</li>
+<li>Jump Puzzling</li>
+<li>WvW Campaigning</li>
+<li>PvP Team Arenas</li>
+</ul>
+
+In time, we will also work on Guild Missions:
+
+<ul class="square">
+<li>Bounties</li>
+<li>Treks</li>
+<li>Rushes</li>
+<li>Challenges</li>
+<li>Puzzles</li>
+</ul>
+
+On occasion we will also hold meetings at headquarters, in Divinity's Reach.
+
 ##Benefits
-* Politics I
-* Economy I
-* Art of War I
-* Architecture II
-* Workshop
-* Stash
-* Emblem
-<br /><br />
+<ul class="square">
+<li>Politics I</li>
+<li>Art of War I</li>
+<li>Economy I</li>
+<li>Architecture II</li>
+<li>Workshop</li>
+<li>Stash</li>
+<li>Emblem Template</li>
+</ul>
 
 ##Advancement Plan
 1. Politics II
@@ -63,42 +89,26 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 1. Challenges Unlock
 1. Architecture VI
 1. Puzzles Unlock
-<br/><br/>
-
-##Events
-Guild nights are Saturdays, 10pm. Log in, join Steam voice chat, and party up!
-
-In particular, we should be working on:
-
-* Events
-* Dungeoneering
-* Jump Puzzling
-* WvW Campaigning
-
-In time, we will also work on:
-
-* Bounties
-* Treks
-* Rushes
-* Challenges
-* Puzzles
-
-On occasion we will also hold meetings at the headquarters in Divinity's Reach.
-
-<br /><br />
 
 ##Titles & Roles
 
-| Title                 | #     | Permissions                      | Equivalent
-|:---                   |   ---:|:---                              |:---
-| Duke/Duchess          | 2     | A.B.C.D.E.F.G.H.I.J.K.L.M.N.~    | Guild Leader
-| Marquis/Marquise      | 6     | ~.~.C.D.E.F.G.H.I.J.K.L.M.N.~    | Guild Manager
-| Count/Countess        | 16    | ~.~.C.~.~.F.G.H.I.J.K.L.M.N.~    | Guild Commander
-| Baron/Baroness        | 24    | ~.~.C.~.~.~.~.H.~.J.K.L.~.~.~    | Respected Member
-| Knight/Dame           | 52    | ~.~.C.~.~.~.~.~.~.J.K.L.~.~.O    | Member
-<br/>
+| Titles            | positions | Equivalent
+|:---               |       ---:|:---
+| Duke/Duchess      | 2         | Guild Leader
+| Marquis/Marquise  | 6         | Guild Manager
+| Count/Countess    | 16        | Guild Commander
+| Baron/Baroness    | 24        | Respected Member
+| Knight/Dame       | 52        | Member
 
-##Permissions
+| Titles            | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    | O    |
+|:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Duke/Duchess      | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    |      |
+| Marquis/Marquise  |      |      | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    |      |
+| Count/Countess    |      |      | X    |      |      | X    |      | X    |      | X    | X    | X    | X    | X    |      |
+| Baron/Baroness    |      |      |      |      |      |      |      | X    |      | X    | X    | X    | X    | X    |      |
+| Knight/Dame       |      |      |      |      |      |      |      |      |      |      | X    | X    |      |      | X    |
+
+##Responsibilities
 - A: Edit Ranks: Create, delete, and edit the properties of ranks lower than this one.
 - B: Edit Guild Emblem: Change the appearance of the guild emblem as it appears on all armor, flags, banners, and objects.
 - C: Claim/Unclaim WvW Forts: Allowed to change which fortified area is being held by the guild in World vs World battles.

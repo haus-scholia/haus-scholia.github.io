@@ -2,7 +2,7 @@
 layout: post
 title: "Website in the works"
 date: 2013-09-23 20:35
-categories: posts
+categories: news
 ---
 
 I'm working on a site for the guild.
