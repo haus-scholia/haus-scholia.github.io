@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Charter :: Haus Scholia"
+published: true
 ---
 
 #Charter
@@ -57,10 +58,10 @@ On occasion we will hold meetings at headquarters, in Divinity's Reach.
 <li>Workshop</li>
 <li>Stash</li>
 <li>Emblem Template</li>
+<li>Armorer Contract</li>
 </ul>
 
 ##Advancement Plan
-1. Armorer Contract
 1. Politics III
 1. Weapons Contract
 1. Architecture III
