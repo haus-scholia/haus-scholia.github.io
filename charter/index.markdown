@@ -51,24 +51,22 @@ On occasion we will hold meetings at headquarters, in Divinity's Reach.
 
 ##Benefits
 <ul class="square">
-<li>Politics II</li>
+<li>Politics III</li>
 <li>Art of War I</li>
 <li>Economy I</li>
 <li>Architecture II</li>
 <li>Workshop</li>
 <li>Stash</li>
-<li>Emblem Template</li>
 <li>Armorer Contract</li>
 </ul>
 
 ##Advancement Plan
-1. Politics III
 1. Weapons Contract
+1. Art of War II
+1. Economy II
 1. Architecture III
 1. Architecture IV
 1. Treasure Trove
-1. Art of War II
-1. Economy II
 1. Economy III
 1. Art of War III
 1. Politics IV
@@ -93,19 +91,19 @@ On occasion we will hold meetings at headquarters, in Divinity's Reach.
 
 | Titles            | positions | Equivalent
 |:---               |       ---:|:---
-| Duke/Duchess      | 2         | Guild Leader
-| Marquis/Marquise  | 6         | Guild Manager
-| Count/Countess    | 16        | Guild Commander
-| Baron/Baroness    | 24        | Respected Member
-| Knight/Dame       | 52        | Member
+| Duke/Duchess      | 2         | Leader
+| Marquis/Marquise  | 2         | Manager
+| Count/Countess    | 4         | Officer
+| Baron/Baroness    | 8         | Recruiter
+| Knight/Dame       | 32/80     | Member
 
 | Titles            | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    | O    |
 |:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Duke/Duchess      | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    |      |
 | Marquis/Marquise  |      |      | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    | X    |      |
-| Count/Countess    |      |      | X    |      |      | X    |      | X    |      | X    | X    | X    | X    | X    |      |
-| Baron/Baroness    |      |      |      |      |      |      |      | X    |      | X    | X    | X    | X    | X    |      |
-| Knight/Dame       |      |      |      |      |      |      |      |      |      |      | X    | X    |      |      | X    |
+| Count/Countess    |      |      | X    |      |      | X    | X    | X    |      | X    | X    | X    | X    | X    |      |
+| Baron/Baroness    |      |      | X    |      |      |      |      | X    |      | X    | X    | X    | X    | X    |      |
+| Knight/Dame       |      |      | X    |      |      |      |      |      |      |      | X    | X    | X    |      | X    |
 
 ##Responsibilities
 - A: Edit Ranks: Create, delete, and edit the properties of ranks lower than this one.
