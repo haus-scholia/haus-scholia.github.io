@@ -1,9 +1,11 @@
 ---
 layout: member
 categories: roster
-title: "Neranna Taitar"
+title: Neranna Taitar
 rank: Duchess
+published: true
 ---
+
 ##Neranna Taitar ("Nerry")
 _Human Thief_
 
@@ -13,8 +15,8 @@ My people were dirt poor. I grew up in the slums of Divinity's Reach, and there 
 
 Now I'm a professional rogue, an expert at subtlety, intrigue and charm. I can blend into the crowd, or lead it when I need to. I'm also good at finding people, places, and information that are not meant to be found. When you need a nimble expert of bow, pistol and whirling daggers, I'm the woman you should look for.
 
-![](http://f.cl.ly/items/0v0J3V1P0J3M330M1X2E/gw117.jpg)
-![](http://f.cl.ly/items/052g1m2v430O0M3C1n2Y/gw128.jpg)
+![](http://f.cl.ly/items/1w280n37000r3o3I373E/gw174.jpg)
+![](http://f.cl.ly/items/0p453b1J421Q1e2M0d09/gw184.jpg)
 
 ##Feairraelly Shaeln ("Elly")
 _Norn Ranger_
@@ -25,8 +27,8 @@ I sought some clarity at the shrine of Raven. I remembered that Raven teaches us
 
 I'm a ranger. I roam freely across the wilds, and I have a way with animals. I am good friends with the shaman of Bear, and she gave me one of her cubs to raise as my companion. I remain quiet and reserved, yet I make friends wherever I go. My enemies think twice before fighting me, for I never stand alone.
 
-![](http://f.cl.ly/items/0V0X0t311X3B1v082z02/gw126.jpg)
-![](http://f.cl.ly/items/1F1M1N46250Y17040W0q/gw120.jpg)
+![](http://f.cl.ly/items/3k0U0v440B2D2h3U0d29/gw172.jpg)
+![](http://f.cl.ly/items/2B043K0w121o1y2B423f/gw182.jpg)
 
 ##Akaria Rubeathin ("Kari")
 _Human Necromancer_
@@ -37,8 +39,8 @@ I held an apprenticeship with the archmage of Queen Jenna's court, and under his
 
 When I go forth to face the evil in the land, I paint my face with the symbol of a skull, to signify to the people that I am at peace with death. I carry a knife (the symbol of blood), a string of nooses (a symbol of judgement), and a staff (the symbol of a leader). I am death's messenger, cleansing the land of evil and making it safe for my dear people.
 
-![](http://f.cl.ly/items/0M372R0m1p2r2J0d1c2p/gw119.jpg)
-![](http://f.cl.ly/items/1z2O0C3m2Z3o0M3D3b2f/gw125.jpg)
+![](http://f.cl.ly/items/1f1c332h0c1t250N0e2A/gw171.jpg)
+![](http://f.cl.ly/items/0a2y3Q3C2F0J2Q0o2Z3E/gw181.jpg)
 
 ##Vakanya Dolshynya ("Anya")
 _Norn Warrior_
@@ -47,20 +49,35 @@ I never knew my parents. They were murdered by servants of Jormag, and I was rai
 
 I have chosen the path of the warrior, and I work hard to maintain my physical strength and prowess. I carry an axe and a horn, the ancient weapons of my people, and I carry a hammer to break my foes, just as they have broken my heart. I wear no helm on the battlefield, as I would rather look my foes in the eyes. That way they may see my fearless determination and quake in the face of my righteous anger. I have dedicated my life to winning back our homeland, and until I can sit at my family's hearth and set my parents' souls to rest, I will stop at nothing to destroy those who stand against me.
 
-![](http://f.cl.ly/items/0e2t322o1v161y3b3K40/gw121.jpg)
-![](http://f.cl.ly/items/2u190N4414290z3w151R/gw124.jpg)
-
-##Yori Djicain ("Yori")
-_Norn Elementalist_
-
-##Kinydha
-_Asura Engineer_
+![](http://f.cl.ly/items/0y2V2G3J2J2C2E1B1n00/gw168.jpg)
+![](http://f.cl.ly/items/1n3i1D3e2p3U462m1b3y/gw178.jpg)
 
 ##Friedegund Frei ("Frieda")
 _Norn Guardian_
 
+![](http://f.cl.ly/items/271O0o1N472R1H021317/gw173.jpg)
+![](http://f.cl.ly/items/2h0h2f103J3D3w3f0K1J/gw183.jpg)
+
+##Yori Djicain ("Yori")
+_Norn Elementalist_
+
+![](http://f.cl.ly/items/2B1q2C420X1b3w3S0o3w/gw170.jpg)
+![](http://f.cl.ly/items/0v39001r2e0A2Q3H3C2q/gw180.jpg)
+
+##Kinydha
+_Asura Engineer_
+
+![](http://f.cl.ly/items/0x2P3t3E1m3w2p3E1Y3C/gw169.jpg)
+![](http://f.cl.ly/items/190D3u020h0F2d3o2u2E/gw179.jpg)
+
+##Cessair Dry Eyed
+_Sylvari Mesmer_
+
+![](http://f.cl.ly/items/032P0c2y0J0V0W1U163i/gw176.jpg)
+![](http://f.cl.ly/items/1q1R3V201R0y1y0x3X1o/gw185.jpg)
+
 ##Jet Heartstrike ("Jet")
 _Charr Warrior_
 
-##Cessair
-_Sylvari Mesmer_
+![](http://f.cl.ly/items/3y321V3e1U0D2K262l3u/gw177.jpg)
+![](http://f.cl.ly/items/3t1a2C1Y1F1x0v2g0j3s/gw186.jpg)
