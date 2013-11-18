@@ -9,7 +9,7 @@ published: true
 ##Neranna Taitar ("Nerry")
 _Human Thief_
 
-Grenth, the god of death, "blessed" me as an infant. I've lived with that curse ever since. Trouble follows me like a plague, but my lighthearted and fero nature allows me to shake it off. I've worked hard to make something of myself, and I've built a strong circle of good friends around me.
+Grenth, the god of death, "blessed" me as an infant. I've lived with that curse ever since. Trouble follows me like a plague, but my lighthearted and ferocious nature allows me to shake it off. I've worked hard to make something of myself, and I've built a strong circle of good friends around me.
 
 My people were dirt poor. I grew up in the slums of Divinity's Reach, and there I learned how fend for myself. Looking back, I honestly think it was the best education a girl could ask for.
 
