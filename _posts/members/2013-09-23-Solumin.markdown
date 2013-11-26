@@ -1,19 +1,21 @@
 ---
 layout: member
 categories: roster
-title: "Solumin"
+title: Solumin
 rank: Baron
+published: true
 ---
-## Ash Clawburn
-Charr Engineer -- Focus: Flamethrower/Elixir Gun, Turrets, Pistols/Shield
 
-Like other charr, I never knew my parents; I was raised in the Iron Legion fahrar. That is where I learned and grew. My warband--my real family--and I met in the fahrar and were inseperable until they were killed in an Ascalonian attack on the Black Citadel. Only Clawspur, my sparring partner, survived. I am now forming my own warband from the charr that Clawspur and I meet in our travels.
+## Ash Clawburn
+Charr Engineer -- Focus: Flamethrower, Pistols/Shield
+
+Like other charr, I never knew my parents; I was raised in the Iron Legion fahrar. That is where I learned and grew. I met my warband--my real family--in the fahrar and were inseperable until they were killed in an Ascalonian attack on the Black Citadel. Only Clawspur, my sparring partner, survived. I am now forming my own warband from the charr that Clawspur and I meet in our travels.
 
 Though I never really knew my father, I know he is a loyal soldier in the Legion. I will live up to his reputation and keep the honor of the Iron Legion and my warband.
 
-I'm an engineer in the proud tradition of my Legion. I wear my eagle-eye goggles, my first creation, with pride. As an engineer, I rely upon kits and turrets in battle. I'm especially fond of my flamethrower and find few enemies that can stand against it. And if that doesn't work, my elixir gun will break them down! I also use turrets as backup, though they tend to break as soon as an enemy looks at them. When all else fails, I fall back on my trusty pistol and a shield.
+I'm an engineer in the proud tradition of my Legion. I wear my eagle-eye goggles, my first creation, with pride. As an engineer, I rely upon kits and turrets in battle. I'm especially fond of my flamethrower and find few enemies that can stand against it. I also use turrets as backup, though they tend to break as soon as an enemy looks at them. When all else fails, I fall back on my trusty pistol and a shield. In battle, I let others charge forward while I support them with healing and fire from behind. But I know the value of a good offence, and I try to plan accordingly.
 
-Outside of battle, I rely on my dignity to carry me through an trouble I may face.
+Outside of battle, I rely on my dignity to carry me through any trouble I face.
 
 ![](http://i.imgur.com/D4RI2oi.jpg)
 
