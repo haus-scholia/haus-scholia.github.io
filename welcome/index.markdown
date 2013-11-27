@@ -31,9 +31,20 @@ There is a [Facebook group](https://www.facebook.com/groups/516760688392090/) fo
 
 We also have a [Steam group](http://steamcommunity.com/groups/hausscholia), but only use it for Voice chat.
 
+##Steam Voice
+
+To join our group voice chat room:
+
+1. Connect a microphone to your computer
+2. Open the Settings window (in Steam), switch to the Voice tab, and test your send/receive levels.
+3. Open the Friends window
+4. Switch to the Groups tab
+5. Click the dropdown arrow next to Haus of Scholia and select "Enter group chat room"
+6. In the window that opens, click the dropdown arrow and select "Start voice"
+
 ##Website: blog, roster & gallery
 
-To edit your roster page, or write news posts if you so desire (the gallery is still under construction):
+If you want to edit your roster page or write news posts (the gallery is still under construction):
 
 1. Set up a GitHub account.
     1. Go to [github.com](https://github.com/) and click "Sign up for a GitHub Account." (Green button, top right.)
@@ -70,17 +81,6 @@ If you know HTML, guess what? You can use that too, if you prefer. Skip all the 
 There are many different image uploading/sharing services out there. Use whatever one floats your boat. It's always nice to be able to manage the files you upload, however, instead of just sending them into a void. Personally, I use CloudApp for all my file sharing. (Yes, it's geared towards Macs, but I use it on both Windows and Mac all the time with no issues.)
 
 The thing to note when you are embedding images in Markdown (regardless of what your sharing service is) is to get an image url, and not a shortlink url. It needs to end in `.jpg` or `.png`. For me, I get these sorts of links when I upload to CloudApp [http://cl.ly/image/2k2m1Z2Q320n](http://cl.ly/image/2k2m1Z2Q320n), and then I have to click "Direct link" on the top right to get the full image link: [http://f.cl.ly/items/1f0t0b25463m3M101g0U/gw079.jpg](http://f.cl.ly/items/1f0t0b25463m3M101g0U/gw079.jpg).
-
-##Steam Voice
-
-To join our group voice chat room:
-
-1. Connect a microphone to your computer
-2. Open the Settings window (in Steam), switch to the Voice tab, and test your send/receive levels.
-3. Open the Friends window
-4. Switch to the Groups tab
-5. Click the dropdown arrow next to Haus of Scholia and select "Enter group chat room"
-6. In the window that opens, click the dropdown arrow and select "Start voice"
 
 ##Closing
 
