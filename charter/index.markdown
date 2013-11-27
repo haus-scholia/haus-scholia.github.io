@@ -137,8 +137,8 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 | Duke/Duchess      | 2         | 0         | Leader
 | Marquis/Marquise  | 2         | 2         | Manager
 | Count/Countess    | 4         | 4         | Officer
-| Baron/Baroness    | 8         | 0         | Moderator
-| Scholar           | 32        | 32        | Member
+| Baron/Baroness    | 8         | 4         | Moderator
+| Scholar           | 32        | 28        | Member
 
 | Titles            | A    | B    | C    | D    | E    | F    | G    | H    |
 |:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
