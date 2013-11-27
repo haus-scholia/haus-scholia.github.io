@@ -2,7 +2,7 @@ name: Haus Scholia
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments: false
+pygments: true
 permalink: /:categories/:title
 prose:
   rooturl: '_posts'

@@ -4,8 +4,6 @@ title: "Welcome :: Haus Scholia"
 published: true
 ---
 
-#An orientation guide to Haus Scholia
-
 ##How to join Haus Scholia
 
 1. Buy Guild Wars 2.
