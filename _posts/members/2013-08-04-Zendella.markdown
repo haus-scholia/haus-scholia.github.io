@@ -1,25 +1,32 @@
 ---
 layout: member
 categories: roster
-title: "Zendella"
+title: Zendella
 rank: Baroness
+published: true
 ---
 
 ##Zendella
 _Human Mesmer_
 
-I was born to a family of nobles in Divinity's Reach. We've always been wealthy, and my mother says our bloodline can be traced back to ancient Kyrtan kings. I don't care much for riches, although I admit, growing up priveleged in the upper class of Divinity's Reach definitely had its perks. Having free access to the finest spirits and company that Kryta can offer is boatloads of fun. But I couldn't help always yearning for more.. I always desired adventure.
+My name is Zendella and I was born to a family of nobles in Divinity's Reach. My family has always been ridiculously wealthy, and mother says our blood can be traced back to ancient Krytan kings, but she could just be telling stories. I've lived a very priveleged life; from my childhood, I can recollect a lot of fancy parties filled with a lot of snooty people. It was quite literally just social gathering after social gathering. My sister and I didn't really have a care in the world; it was great to be honest. Everything was handed to us on a silver platter. We never had to work hard for anything, but we still had our responsibilities, namely our education. When you live amongst the nobility, the more educated you are, the more high-society you are. It's just the way it is. Your level of education speaks equal in value to the most costly spirit you'd have in your cupboard. 
 
-I remember when I was a kid, I had a twin sister.  Her name was Orianna. On my 11th birthday she was kidnapped.. taken by bandits. Since that day, I've regretted not looking for her.
+But wealth is a double-edged sword...
 
-When I was born, the goddess Lyssa blessed me. That explains a lot, for example why I have a knack for conjuring illusions. Tt's a skill I've had since I can remember. Even when I was a kid, I could make people see things that weren't really there. It was incredibly fun using that trick to confuse people. I also had a way with words, which is something I found out from an early age. Yeah, I definitely have a talent for charming myself out of (or into) just about anything. It was these same abilities that would later prompt me to grow into the experienced Mesmer I am today.
+On my eleventh birthday, my little sister Orianna was kidnapped, taken by bandits and held for ransome. Since that day, I've regretted not personally looking for her. My parents did all they could to try to bring her back, but they were unsuccessful.. but between you and me, I don't think they tried very hard to find her. 
 
-After years of training, I finally became skilled enough to use these abilities to find my sister. One fateful day in Shaemoor gave me access to the resources that would help me accomplish just that, and while it's been a great ride, I can't help but feel this yearning to achieve even more. Maybe it's not even so much about the fame, or fortune, or glory... although that all sounds great to me. But really I think it's all about something more. I think I just want to bring chaos and confusion to all the enemies of Tyria. Bad guys annoy me, and I have the power to make them think twice about what's real and what isn't. And if you ask me? Nothing's more hilarious than watching a Risen dance around under the illusion that he's a pretty ballerina!
+But enough of the grim stuff - back to me!
 
-Haha... my superiors don't always approve of my methods. But hey, that's their problem. They just haven't got the joke yet!
+As a child, I was always the life of the party. I could spin a story that would captivate your interest before leaving you in stitches, or dazzle you with my impressive worldly knowledge; with my sparkling charm, I could make even the most detestable party guest feel as if he were the most welcome. It was because of these gifts (as well as my radiant beauty) that others have proclaimed how I was blessed by Lyssa when I was born. But there was another reason they said that. 
 
-![](http://i40.tinypic.com/aa7ko1.jpg)
-![](http://i40.tinypic.com/s48eud.jpg)
+You see, aside from being uncannily witty, attractive, _and_ humble, I've also always had a very remarkable gift for illusion. I can make people see things that aren't there, or make them NOT see things that really are. With my intent alone, I can force people to become forgetful, or sad, or angry, and they'll have no idea why. I was able to use this talent to cause a lot of mischief in my day, and I'd be lying if I said I didn't take pleasure in it. But it was this same talent that would later prompt me to grow into the experienced Mesmer I am today. After several years of practice and training, I had finally grown powerful enough to set out on a journey to find my long-lost baby sister. One fateful day in the village of Shaemoor was the spark that made it all possible, and after becoming personally acquainted with Captain Logan Thackeray of the Queen's Guard, I quickly gained access to all the necessary resources I'd ever require to find Orianna. 
+
+Now that I've rescued her from the gang that held her captive for almost a decade, I've got some bigger fish to fry... _much_ bigger. Now I seek Zhaitan. I yearn to bring him down. And let me tell you, it's not about the fame or the fortune, nor the glory; I'm doing it simply for the thrill. I desire to confront the most terrifying creature in all of Tyria and bathe in pleasure as I rend his sanity from his mind, not that he had any sanity to begin with. I wish to explore his deepest thoughts, to toy with his emotions, to analyze his motives. Hell, maybe I'd even like to trick him into thinking he's a beautiful ballerina! And why not? You might think I have a problem - a deathwish, perhaps. And maybe I do. But come on, you have to admit that it would be hilarious! I mean, afterall, life _is_ just a joke, is it not? And nobody likes a joke that isn't funny. I'm just trying to bring a little comedy to the situation. I'm really actually doing you a massive favor.
+
+_You're welcome._
+
+![](http://i40.tinypic.com/2ppbgqq.jpg)
+![](http://i42.tinypic.com/qriwpj.jpg)
 
 
 ##Karistany
