@@ -3,7 +3,7 @@ layout: member
 categories: roster
 title: Zendella
 rank: Baroness
-published: false
+published: true
 ---
 
 ##Zendella
