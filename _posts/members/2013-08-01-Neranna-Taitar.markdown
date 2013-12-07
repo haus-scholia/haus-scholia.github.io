@@ -15,7 +15,7 @@ My people were dirt poor. I grew up in the slums of Divinity's Reach, and there 
 
 Now I'm a professional rogue, an expert at subtlety, intrigue and charm. I can blend into the crowd, or lead it when I need to. I'm also good at finding people, places, and information that are not meant to be found. When you need a nimble expert of bow, pistol and whirling daggers, I'm the woman you should look for.
 
-![](http://f.cl.ly/items/1w280n37000r3o3I373E/gw174.jpg)
+![](http://f.cl.ly/items/380G1O0q0K3L021X0i14/gw210.jpg)
 ![](http://f.cl.ly/items/0p453b1J421Q1e2M0d09/gw184.jpg)
 
 ##Feairraelly Shaeln ("Elly")
@@ -55,14 +55,8 @@ I have chosen the path of the warrior, and I work hard to maintain my physical s
 ##Friedegund Frei ("Frieda")
 _Norn Guardian_
 
-![](http://f.cl.ly/items/271O0o1N472R1H021317/gw173.jpg)
+![](http://f.cl.ly/items/2U3u2L0A2P183D172U2Q/gw211.jpg)
 ![](http://f.cl.ly/items/2h0h2f103J3D3w3f0K1J/gw183.jpg)
-
-##Yori Djicain ("Yori")
-_Norn Elementalist_
-
-![](http://f.cl.ly/items/2B1q2C420X1b3w3S0o3w/gw170.jpg)
-![](http://f.cl.ly/items/0v39001r2e0A2Q3H3C2q/gw180.jpg)
 
 ##Kinydha
 _Asura Engineer_
@@ -70,14 +64,14 @@ _Asura Engineer_
 ![](http://f.cl.ly/items/0x2P3t3E1m3w2p3E1Y3C/gw169.jpg)
 ![](http://f.cl.ly/items/190D3u020h0F2d3o2u2E/gw179.jpg)
 
+##Jet Heartstrike ("Jet")
+_Charr Elementalist_
+
+![](http://f.cl.ly/items/0p2l0P0F3j2l2h0T1o1S/gw212.jpg)
+![](http://f.cl.ly/items/3s110D0I081y3k1w0N1h/gw213.jpg)
+
 ##Cessair Dry Eyed
 _Sylvari Mesmer_
 
 ![](http://f.cl.ly/items/032P0c2y0J0V0W1U163i/gw176.jpg)
 ![](http://f.cl.ly/items/1q1R3V201R0y1y0x3X1o/gw185.jpg)
-
-##Jet Heartstrike ("Jet")
-_Charr Warrior_
-
-![](http://f.cl.ly/items/3y321V3e1U0D2K262l3u/gw177.jpg)
-![](http://f.cl.ly/items/3t1a2C1Y1F1x0v2g0j3s/gw186.jpg)
