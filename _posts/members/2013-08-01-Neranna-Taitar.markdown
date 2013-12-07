@@ -55,11 +55,25 @@ I have chosen the path of the warrior, and I work hard to maintain my physical s
 ##Friedegund Frei ("Frieda")
 _Norn Guardian_
 
+We moved south when the deep cold came. I was still a child. Lornar's Pass was rich then, full of fish and rabbit. The cold has crept even further south since then. I fear if we do not make a stand, it will keep on spreading until there is nothing green left.
+
+Growing up in the shadow of the Priory, I suppose it is only natural that I gained a love of books and a fascination with magic. I have always felt a deep connection with the Spirits of the Wild, and I am comforted to know they are always there for me. I don't really remember joining the Priory. I spent so much time there as a youth, it seemed a rather seamless process.
+
+The losses of Owl, Eagle, Wolverine and Ox still cut me deeply, as they do all norn. I have dedicated my study, my strength, my service to do everything in my power, with all the resources of the Priory at my disposal, to ensure the four remaining Spirits continue to stand strong. In time, I hope that we will destroy Jormag, win the north back, and restore the lost Spirits to their former glory.
+
+Until that time, I will gather friends around me and hone myself in combat against the lesser evils of Tyria. It is only united that we will defeat Jormag, and to gain the aid of others I must earn their allegiance. So I will go forth, south and east and west, to protect those in need in the ways I know. I will earn a name for myself, and I swear, when I return, Jormag will tremble to hear it.
+
 ![](http://f.cl.ly/items/2U3u2L0A2P183D172U2Q/gw211.jpg)
 ![](http://f.cl.ly/items/2h0h2f103J3D3w3f0K1J/gw183.jpg)
 
 ##Kinydha
 _Asura Engineer_
+
+You want to hear about me? I don't really know what to tell you. I'm just your typical scholar. I studied Dynamics and Statics in full, of course, but I specialized in Synergetics. The Eternal Alchemy is, well, eternally fascinating for me. You know... the current of energy that flows through everything? No? Ah well. Not enough time to explain. I'd show you but... I might break something here. Later, I will.
+
+Anyway... what was I telling you? Oh, right. Well, I just graduated from Synergetics, and I'm waiting for an assignment. I probably shouldn't tell you this... promise not to gossip? I had to take my thesis class with Zojja. She was absurdly impressed by my piece... I called it the "Interspatial Locator." Junk, really, but it demonstrated a powerful notion. She's been following me around ever since, nagging me to do "great things." I wish she'd get off my back. She's such an old windbag. All I want to do is explore some other regions of Tyria and soak up some intercultural experiences.
+
+So I ran away in the middle of the night... well, early morning, once Zojja was finally asleep. I took along my fully stocked elixer kit, and my beloved rifle. I just arrived here in Lion's Arch this evening. Do you know anyone in need of an alchemist or a sniper?
 
 ![](http://f.cl.ly/items/0x2P3t3E1m3w2p3E1Y3C/gw169.jpg)
 ![](http://f.cl.ly/items/190D3u020h0F2d3o2u2E/gw179.jpg)
@@ -67,11 +81,19 @@ _Asura Engineer_
 ##Jet Heartstrike ("Jet")
 _Charr Elementalist_
 
+The Blood Legion is my father, my mother, my family, my home. I live for the glory of victory and the honor of blood.
+
+They wanted me to be one of the berserkers, carrying nothing but swords into the thick of the fray. That always felt awkward doing during training, so I requested a different assignment. It took a bit of strongarming, but I secured a position in the elite squad of elementalists. Now I'm still in the thick of things, but I hang back just a little bit, supporting my warband with the powers of fire, earth, air and water.
+
 ![](http://f.cl.ly/items/0p2l0P0F3j2l2h0T1o1S/gw212.jpg)
 ![](http://f.cl.ly/items/3s110D0I081y3k1w0N1h/gw213.jpg)
 
 ##Cessair Dry Eyed
 _Sylvari Mesmer_
+
+My dream... it was not one. But nor was it nightmare. It seemed a reminder of once-beautiful things now crumbled... of painful terrors still to come.
+
+Some would mourn what is lost, and what will be lost. It is my destiny to simply remember, and to face the looming horrors with dry eyes.
 
 ![](http://f.cl.ly/items/032P0c2y0J0V0W1U163i/gw176.jpg)
 ![](http://f.cl.ly/items/1q1R3V201R0y1y0x3X1o/gw185.jpg)
