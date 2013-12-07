@@ -3,6 +3,7 @@ layout: member
 categories: roster
 title: Solumin
 rank: Baron
+role: "Master Craftsman"
 published: true
 ---
 

@@ -2,7 +2,12 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+{% if page.role != null %}
+<h3>{{ page.rank }} of Scholia, {{ page.role }}</h3>
+{% else %}
 <h3>{{ page.rank }} of Scholia</h3>
+{% endif %}
+<hr/>
 
 <div class="post">
 {{ content }}

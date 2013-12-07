@@ -1,8 +1,9 @@
 ---
 layout: member
 categories: roster
-title: Neranna Taitar
+title: "Neranna Taitar"
 rank: Duchess
+role: "Mists Technician"
 published: true
 ---
 
