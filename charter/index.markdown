@@ -36,19 +36,6 @@ Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advan
 - In meetings, full sentences are greatly preferred to teh txt.
 - During organized activities, Steam Voice chat is used. You are not required to talk, but are strongly encouraged to listen.
 
-###The Bank
-
-- Deposit only what you want to give away.
-- If you need something, take it, but don't be greedy.
-- Gold deposited goes to the Commander Fund.
-
-###The Commander Fund
-
-- A commander is needed for groups larger than a single party (squads, trains).
-- Being a commander is a huge responsibility.
-- Friedegund Frei wants that responsibility, and is proving herself through a number of [ordeals](https://docs.google.com/spreadsheet/ccc?key=0Alk-dTyQnKtrdG1CVTN5Z2J4R04wWldRWHJrODV4MFE&usp=drive_web#gid=7).
-- The guild will finance her goal, if she proves herself.
-
 ###Chat
 
 - /g is for guild banter, organizing events, and managing large sorties without a commander.
@@ -58,9 +45,22 @@ Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advan
 - /m is for the whole map... remember that you're representing the guild.
 - If it's not one of those things, it probably belongs in a whisper (/w).
 
+###The Bank
+
+- Deposit only what you want to give away.
+- If you need something, take it, but don't be greedy.
+- Gold deposited goes to the Commander Fund.
+
+###The Commander Fund
+
+- A commander is needed for groups larger than a single party (squads, trains, zergs, missions, runs).
+- Being a commander is a huge responsibility.
+- Friedegund Frei wants that responsibility, and is proving herself through a number of [ordeals](https://docs.google.com/spreadsheet/ccc?key=0Alk-dTyQnKtrdG1CVTN5Z2J4R04wWldRWHJrODV4MFE&usp=drive_web#gid=7).
+- The guild will finance her goal, if she proves herself.
+
 ##Activities
 
-Official guild nights are currently Saturdays, 10pm. Log in, join Steam voice chat, and party up! You can find someone online most every other night as well, but those are all freeform.
+Official guild nights are currently Saturdays, 9pm. Log in, join Steam voice chat, and party up! You can find someone online most every other night as well, but those are all freeform.
 
 Here is a list of the various things we might be doing (in no particular order):
 
@@ -85,7 +85,7 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 <ul class="square">
 <li>Fully upgraded infrastructure</li>
 <li>Guild Mission unlocks</li>
-<li>Active tier 1 status, casual tier 2 status</li>
+<li>Active tier 1 membership, casual tier 2 membership</li>
 <li>All Grandmaster crafting disciplines represented</li>
 <li>Full exotics+ on all members' mains</li>
 <li>Story and map completion on all members' mains</li>
@@ -96,7 +96,7 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 
 <ul class="square">
 <li>Politics III</li>
-<li>Art of War II</li>
+<li>Art of War III</li>
 <li>Economy II</li>
 <li>Architecture II</li>
 <li>Workshop</li>
@@ -107,20 +107,26 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 
 ##Advancement Plan
 
-1. Art of War III
+###Tier III
 1. Economy III
 1. Architecture III
+
+###Tier IV
 1. Architecture IV
 1. Treasure Trove
 1. Politics IV
 1. Economy IV
 1. Art of War IV
+
+###Tier V
 1. Art of War V
 1. Bounties Unlock
-1. Economy V
-1. Politics V
 1. Architecture V
 1. Deep Cave
+1. Economy V
+1. Politics V
+
+###Tier VI
 1. Economy VI
 1. Treks Unlock
 1. Politics VI
@@ -132,13 +138,13 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 
 ##Titles & Roles
 
-| Titles            | positions | remaining | Equivalent
-|:---               |       ---:|       ---:|:---
-| Duke/Duchess      | 2         | 0         | Leader
-| Marquis/Marquise  | 2         | 2         | Manager
-| Count/Countess    | 4         | 4         | Officer
-| Baron/Baroness    | 8         | 4         | Moderator
-| Scholar           | 32        | 28        | Member
+| Titles            | positions | filled | remaining | Equivalent
+|:---               |       ---:|    ---:|       ---:|:---
+| Duke/Duchess      | 2         | 2      | 0         | Leader
+| Marquis/Marquise  | 2         | 0      | 2         | Manager
+| Count/Countess    | 4         | 0      | 4         | Officer
+| Baron/Baroness    | 8         | 4      | 4         | Moderator
+| Scholar           | 32        | 6      | 26        | Member
 
 | Titles            | A    | B    | C    | D    | E    | F    | G    | H    |
 |:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
