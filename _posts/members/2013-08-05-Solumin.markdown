@@ -3,12 +3,13 @@ layout: member
 categories: roster
 title: Solumin
 rank: Baron
-role: "Master Craftsman"
+role: Master Craftsman
 published: true
 ---
 
 ## Ash Clawburn
 Charr Engineer -- Focus: Flamethrower, Pistols/Shield
+_Master Huntsman, Master Leatherworker_
 
 Like other charr, I never knew my parents; I was raised in the Iron Legion fahrar. That is where I learned and grew. I met my warband--my real family--in the fahrar and were inseperable until they were killed in an Ascalonian attack on the Black Citadel. Only Clawspur, my sparring partner, survived. I am now forming my own warband from the charr that Clawspur and I meet in our travels.
 
