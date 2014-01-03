@@ -97,7 +97,7 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 <ul class="square">
 <li>Politics III</li>
 <li>Art of War III</li>
-<li>Economy II</li>
+<li>Economy III</li>
 <li>Architecture II</li>
 <li>Workshop</li>
 <li>Stash</li>
@@ -108,7 +108,6 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 ##Advancement Plan
 
 ###Tier III
-1. Economy III
 1. Architecture III
 
 ###Tier IV
