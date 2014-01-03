@@ -24,7 +24,7 @@ Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advan
 
 ##Rules
 
-1. Be civil. You represent both yourself and the guild.
+1. Be civil and polite. You represent both yourself and the guild.
 2. Write intelligently. Roleplay as much as is possible.
 3. Representation is required when participating in guild events.
 4. Hateful or offensive language of any kind, in any situation, will not be tolerated.
@@ -49,14 +49,7 @@ Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advan
 
 - Deposit only what you want to give away.
 - If you need something, take it, but don't be greedy.
-- Gold deposited goes to the Commander Fund.
-
-###The Commander Fund
-
-- A commander is needed for groups larger than a single party (squads, trains, zergs, missions, runs).
-- Being a commander is a huge responsibility.
-- Friedegund Frei wants that responsibility, and is proving herself through a number of [ordeals](https://docs.google.com/spreadsheet/ccc?key=0Alk-dTyQnKtrdG1CVTN5Z2J4R04wWldRWHJrODV4MFE&usp=drive_web#gid=7).
-- The guild will finance her goal, if she proves herself.
+- Gold will be used at the discretion of the leadership, and is not to be withdrawn by Scholars or Initiates..
 
 ##Activities
 
@@ -89,51 +82,9 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 <li>All Grandmaster crafting disciplines represented</li>
 <li>Full exotics+ on all members' mains</li>
 <li>Story and map completion on all members' mains</li>
-<li>Three+ commanders</li>
+<li>Four+ commanders</li>
+<li>A thriving social climate</li>
 </ul>
-
-##Benefits
-
-<ul class="square">
-<li>Politics III</li>
-<li>Art of War III</li>
-<li>Economy III</li>
-<li>Architecture II</li>
-<li>Workshop</li>
-<li>Stash</li>
-<li>Armorer Contract</li>
-<li>Weapons Contract</li>
-</ul>
-
-##Advancement Plan
-
-###Tier III
-1. Architecture III
-
-###Tier IV
-1. Architecture IV
-1. Treasure Trove
-1. Politics IV
-1. Economy IV
-1. Art of War IV
-
-###Tier V
-1. Art of War V
-1. Bounties Unlock
-1. Architecture V
-1. Deep Cave
-1. Economy V
-1. Politics V
-
-###Tier VI
-1. Economy VI
-1. Treks Unlock
-1. Politics VI
-1. Rushes Unlock
-1. Art of War VI
-1. Challenges Unlock
-1. Architecture VI
-1. Puzzles Unlock
 
 ##Titles & Roles
 
@@ -143,7 +94,8 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 | Marquis/Marquise  | 2         | 0      | 2         | Manager
 | Count/Countess    | 4         | 0      | 4         | Officer
 | Baron/Baroness    | 8         | 4      | 4         | Moderator
-| Scholar           | 32        | 6      | 26        | Member
+| Scholar           | 64        | 6      | 26        | Member
+| Initiate          | 8 (of Scholar pool) | 0 | 8 | Provisional Member
 
 | Titles            | A    | B    | C    | D    | E    | F    | G    | H    |
 |:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -152,6 +104,7 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 | Count/Countess    |      |      | X    |      |      | X    | X    | X    |
 | Baron/Baroness    |      |      | X    |      |      |      |      | X    |
 | Scholar           |      |      | X    |      |      |      |      |      |
+| Initiate          |      |      |      |      |      |      |      |      |
 
 | Titles            | I    | J    | K    | L    | M    | N    | O    |
 |:---               | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -159,7 +112,8 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 | Marquis/Marquise  | X    | X    | X    | X    | X    | X    |      |
 | Count/Countess    |      | X    | X    | X    | X    | X    |      |
 | Baron/Baroness    |      | X    | X    | X    | X    | X    |      |
-| Scholar           |      |      | X    | X    | X    |      | X    |
+| Scholar           |      |      | X    | X    | X    |      |      |
+| Initiate          |      |      |      |      |      |      | X    |
 
 ##Permissions
 
@@ -182,6 +136,10 @@ Sometimes an event will be announced in advance, sometimes we will all decide on
 - O: New Members Here
 
 ##Responsibilities
+
+###Initiate
+
+Participate in activities and contribute to discussion. You have one month to prove yourself worthy of scholarship.
 
 ###Scholar
 
