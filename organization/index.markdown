@@ -32,7 +32,7 @@ published: true
 - Responsible for participation & representation.
 
 ###Initiate
-- 8, pulled from Scholar position pool.
+- 8 positions, pulled from Scholar position pool.
 - Attainable by invitation.
 - A one-month trial Scholarship.
 
