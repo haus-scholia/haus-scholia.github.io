@@ -2,7 +2,8 @@
 layout: member
 categories: roster
 title: Shauth
-rank: Baron
+rank: Count
+role: Quartermaster
 published: true
 ---
 

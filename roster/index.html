@@ -8,7 +8,14 @@ title: "Roster :: Haus Scholia"
     <ul id="rosterlist">
     	{% for post in site.categories['roster'] reversed %}
 			<li>
-			<p><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br />
+			<p>
+				<a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+				{% if post.role != null %}
+				<h3>{{ post.rank }} & {{ post.role }} of Scholia</h3>
+				{% else %}
+				<h3>{{ post.rank }} of Scholia</h3>
+				{% endif %}
+				<br />
 			</p>
 			</li>
     	{% endfor %}

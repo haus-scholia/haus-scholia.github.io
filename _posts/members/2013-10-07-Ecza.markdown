@@ -2,5 +2,6 @@
 layout: member
 categories: roster
 title: "Ecza"
-rank: Baron
+rank: Count
+role: Enigma
 ---
