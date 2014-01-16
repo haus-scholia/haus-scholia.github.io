@@ -10,7 +10,7 @@ published: true
 <li>Politics III</li>
 <li>Art of War III</li>
 <li>Economy III</li>
-<li>Architecture II</li>
+<li>Architecture III</li>
 <li>Workshop</li>
 <li>Stash</li>
 <li>Armorer Contract</li>
@@ -18,9 +18,6 @@ published: true
 </ul>
 
 ##Advancement Plan
-
-###Tier III
-1. Architecture III
 
 ###Tier IV
 1. Architecture IV
