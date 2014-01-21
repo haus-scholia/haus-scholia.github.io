@@ -2,7 +2,7 @@
 layout: member
 categories: roster
 title: Zendella
-rank: Countess
+rank: Marquise
 role: "Dungeon Specialist"
 published: true
 ---

@@ -1,7 +1,6 @@
 ---
 layout: member
 categories: roster
-title: "Ecza"
-rank: Marquis
-role: Enigma
+title: "Skyblue"
+rank: Scholar
 ---
