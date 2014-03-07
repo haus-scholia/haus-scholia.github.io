@@ -45,13 +45,13 @@ published: true
 ###Architecture IV
 <ul class="square">
 <li>Guild Stash</li>
+<li>Guild Treasure Trove</li>
 <li>Guild Workshop</li>
 </ul>
 
 ##Advancement Plan
 
 ###Tier IV
-1. Guild Treasure Trove (Adds 100-slot Guild Vault to Guild Bank)
 1. Economy IV (Gathering Boosters, Karma Boosters)
 1. Art of War IV (WvW Fort Healing Boosters, WvW Player Health Boosters, Guild Catapults)
 
