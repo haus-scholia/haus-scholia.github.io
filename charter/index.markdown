@@ -20,7 +20,7 @@ A knot of crimson and gold representing knowledge and adventure, surrounded by a
 
 ##Home World
 
-Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advantage of the benefits of the guild, you must also be on RoS. If you are not on RoS, this will require a [transfer](http://wiki.guildwars2.com/wiki/World#Transferring). Since RoS has a medium population, this is only 500 gems. If you don't want to transfer, but are still in the EU region, please [guest](http://wiki.guildwars2.com/wiki/World#Guesting) with us. If you are in the North American region, unfortunately you won't be able to guest, and your only option to play with us is to transfer. We are willing to assist with transfer costs if needed.
+Haus Scholia is located on Ehmry Bay, a NA server. To take full advantage of the benefits of the guild, you must also be on EB. If you are not on EB, this will require a [transfer](http://wiki.guildwars2.com/wiki/World#Transferring). If you don't want to transfer, but are still in the NA region, please [guest](http://wiki.guildwars2.com/wiki/World#Guesting) with us. If you are in the EU region, unfortunately you won't be able to guest, and your only option to play with us is to transfer. We are willing to assist with transfer costs if needed.
 
 ##Rules
 
@@ -49,26 +49,26 @@ Haus Scholia is located in the Ruins of Surmia, an EU server. To take full advan
 
 - Deposit only what you want to give away.
 - If you need something, take it, but don't be greedy.
-- Gold will be used at the discretion of the leadership, and is not to be withdrawn by Scholars or Initiates..
+- Gold will be used at the discretion of the leadership, and is not to be withdrawn by Scholars or Initiates.
 
 ##Activities
 
-Official guild nights are currently Saturdays, 9pm. Log in, join Steam voice chat, and party up! You can find someone online most every other night as well, but those are all freeform.
+Official guild nights are currently Saturdays, 9pm ET. Log in, join Steam voice chat, and party up! You can find someone online most every other night as well, but those are all freeform.
 
 Here is a list of the various things we might be doing (in no particular order):
 
 <ul class="square">
-<li>An emphasis on roleplaying, because it is fun!</li>
 <li>Clearing the many dungeons of Tyria of their monsters, for pay of course (Gold and Tokens).</li>
-<li>Client work (Guild Missions) organized by our Guild Master in Divinity's Reach, to earn our bread and butter (Influence).</li>
 <li>Jump puzzles are just great. Work those legs!</li>
 <li>Exploration (Map completion) is important, to unfold the vastness of Tyria and increase reknown.</li>
 <li>Events deepen engagement with the vast world and help bolster our name.</li>
+<li>Client work (Guild Missions) organized by our Guild Master in Divinity's Reach, to earn our bread and butter (Influence).</li>
 <li>Serving in the Battle for the Mists (WvW) is necessary to increase reknown and earn our keep.</li>
 <li>Participating in organized gladiatorial matches (PvP) is important to hone combat training and personal awareness.</li>
 <li>Gathering and farming are important to support our crafts and furnish the guild with high-quality equipment.</li>
 <li>Assisting other players (both in-guild and out-of-guild) is critical to increase reknown and build lasting relationships.</li>
 <li>Socials, balls, galas, council meetings, races, lotteries, and ad-hoc minigames are all other fun ways to socialize.</li>
+<li>Everything with an emphasis on roleplaying, because it is fun!</li>
 </ul>
 
 Sometimes an event will be announced in advance, sometimes we will all decide on the fly.
