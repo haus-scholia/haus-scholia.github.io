@@ -4,22 +4,26 @@ title: "Benefits :: Haus Scholia"
 published: true
 ---
 
-##Benefits: T1 Guild
+##Benefits: T2 Guild
 
 ###Politics II
 <ul class="square">
 <li>Guild Emblem Template</li>
+<li>Guild Armorer Contract</li>
 <li>Karma Buff Banners</li>
 <li>Swiftness Banners</li>
 <li>Influence Boosters</li>
 </ul>
 
-###Art of War I
+###Art of War II
 <ul class="square">
 <li>PvP Influence Boosters</li>
+<li>WvW Fort Experience Boosters</li>
+<li>WvW Fort Supply Boosters</li>
+<li>WvW Fort Magic Find Boosters</li>
 </ul>
 
-###Economy I
+###Economy II
 <ul class="square">
 <li>Experience Buff Banners</li>
 <li>Gathering Buff Banners</li>
@@ -29,15 +33,10 @@ published: true
 ###Architecture II
 <ul class="square">
 <li>Guild Workshop</li>
+<li>Guild Stash</li>
 </ul>
 
 ##Advancement Plan
-
-###Tier II
-4. Guild Armorer Contract
-3. Guild Stash
-5. Art of War II (WvW Fort Experience Boosters, WvW Fort Supply Boosters, WvW Fort Magic Find Boosters)
-6. Economy II
 
 ###Tier III
 1. Politics III (Event Influence Boosters, Asuran Outsourcing Contracts, Guild Weapons Contract)

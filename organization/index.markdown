@@ -79,10 +79,10 @@ published: true
 | Ranks             | positions | filled | remaining | Equivalent
 |:---               |       ---:|    ---:|       ---:|:---
 | Duke/Duchess      | 2         | 2      | 0         | Leader
-| Marquis/Marquise  | 2         | 0      | 2         | Manager
-| Count/Countess    | 4         | 4      | 0         | Officer
-| Baron/Baroness    | 8         | 1      | 7         | Moderator
-| Scholar           | 64        | 5      | 59        | Member
+| Marquis/Marquise  | 2         | 2      | 0         | Manager
+| Count/Countess    | 4         | 2      | 2         | Officer
+| Baron/Baroness    | 8         | 0      | 8         | Moderator
+| Scholar           | 64        | 6      | 58        | Member
 | Initiate          | 8 (of Scholar pool) | 0 | 8 | Provisional Member
 
 | Titles            | A    | B    | C    | D    | E    | F    | G    | H    |
