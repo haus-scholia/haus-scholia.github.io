@@ -19,17 +19,19 @@ Now I'm a professional rogue, an expert at subtlety, intrigue and charm. I can b
 ![](http://f.cl.ly/items/380G1O0q0K3L021X0i14/gw210.jpg)
 ![](http://f.cl.ly/items/0p453b1J421Q1e2M0d09/gw184.jpg)
 
-##Feairraelly Shaeln ("Elly")
-_Norn Ranger_
+##Friedegund Frei ("Frieda")
+_Norn Guardian_
 
-My mother brought me up to respect Raven, whom I have taken as my spirit guide. My father was always tinkering with things, and as a child I would follow him around everywhere, watching him work. After my coming of age, when it came time for me to forge a path for myself, I decided to travel to Rata Sum and study with the asura. Six years later, I returned with my engineer training to find a vastly different land than the one I left. The borderlands were overrun with grawl, and the jotun had turned mean. I wanted to help, but found whenever there was a skirmish I would spend more time preparing my equipment than I would fighting.
+We moved south when the deep cold came. I was still a child. Lornar's Pass was rich then, full of fish and rabbit. The cold has crept even further south since then. I fear if we do not make a stand, it will keep on spreading until there is nothing green left.
 
-I sought some clarity at the shrine of Raven. I remembered that Raven teaches us that there's a time for thought and a time for action. I realized that I was spending far too much time thinking than I was acting. Valuable as my engineer training is, engineering is slow, when what was needed was quick-acting people to take on the intruders. So I picked up my grandfather's bow, and with a raven on my shoulder set off to combat the icy menace.
+Growing up in the shadow of the Priory, I suppose it is only natural that I gained a love of books and a fascination with magic. I have always felt a deep connection with the Spirits of the Wild, and I am comforted to know they are always there for me. I don't really remember joining the Priory. I spent so much time there as a youth, it seemed a rather seamless process.
 
-I'm a ranger. I roam freely across the wilds, and I have a way with animals. I am good friends with the shaman of Bear, and she gave me one of her cubs to raise as my companion. I remain quiet and reserved, yet I make friends wherever I go. My enemies think twice before fighting me, for I never stand alone.
+The losses of Owl, Eagle, Wolverine and Ox still cut me deeply, as they do all norn. I have dedicated my study, my strength, my service to do everything in my power, with all the resources of the Priory at my disposal, to ensure the four remaining Spirits continue to stand strong. In time, I hope that we will destroy Jormag, win the north back, and restore the lost Spirits to their former glory.
 
-![](http://f.cl.ly/items/3k0U0v440B2D2h3U0d29/gw172.jpg)
-![](http://f.cl.ly/items/2B043K0w121o1y2B423f/gw182.jpg)
+Until that time, I will gather friends around me and hone myself in combat against the lesser evils of Tyria. It is only united that we will defeat Jormag, and to gain the aid of others I must earn their allegiance. So I will go forth, south and east and west, to protect those in need in the ways I know. I will earn a name for myself, and I swear, when I return, Jormag will tremble to hear it.
+
+![](http://f.cl.ly/items/2U3u2L0A2P183D172U2Q/gw211.jpg)
+![](http://f.cl.ly/items/2h0h2f103J3D3w3f0K1J/gw183.jpg)
 
 ##Akaria Rubeathin ("Kari")
 _Human Necromancer_
@@ -53,19 +55,17 @@ I have chosen the path of the warrior, and I work hard to maintain my physical s
 ![](http://f.cl.ly/items/0y2V2G3J2J2C2E1B1n00/gw168.jpg)
 ![](http://f.cl.ly/items/1n3i1D3e2p3U462m1b3y/gw178.jpg)
 
-##Friedegund Frei ("Frieda")
-_Norn Guardian_
+##Feairraelly Shaeln ("Elly")
+_Norn Ranger_
 
-We moved south when the deep cold came. I was still a child. Lornar's Pass was rich then, full of fish and rabbit. The cold has crept even further south since then. I fear if we do not make a stand, it will keep on spreading until there is nothing green left.
+My mother brought me up to respect Raven, whom I have taken as my spirit guide. My father was always tinkering with things, and as a child I would follow him around everywhere, watching him work. After my coming of age, when it came time for me to forge a path for myself, I decided to travel to Rata Sum and study with the asura. Six years later, I returned with my engineer training to find a vastly different land than the one I left. The borderlands were overrun with grawl, and the jotun had turned mean. I wanted to help, but found whenever there was a skirmish I would spend more time preparing my equipment than I would fighting.
 
-Growing up in the shadow of the Priory, I suppose it is only natural that I gained a love of books and a fascination with magic. I have always felt a deep connection with the Spirits of the Wild, and I am comforted to know they are always there for me. I don't really remember joining the Priory. I spent so much time there as a youth, it seemed a rather seamless process.
+I sought some clarity at the shrine of Raven. I remembered that Raven teaches us that there's a time for thought and a time for action. I realized that I was spending far too much time thinking than I was acting. Valuable as my engineer training is, engineering is slow, when what was needed was quick-acting people to take on the intruders. So I picked up my grandfather's bow, and with a raven on my shoulder set off to combat the icy menace.
 
-The losses of Owl, Eagle, Wolverine and Ox still cut me deeply, as they do all norn. I have dedicated my study, my strength, my service to do everything in my power, with all the resources of the Priory at my disposal, to ensure the four remaining Spirits continue to stand strong. In time, I hope that we will destroy Jormag, win the north back, and restore the lost Spirits to their former glory.
+I'm a ranger. I roam freely across the wilds, and I have a way with animals. I am good friends with the shaman of Bear, and she gave me one of her cubs to raise as my companion. I remain quiet and reserved, yet I make friends wherever I go. My enemies think twice before fighting me, for I never stand alone.
 
-Until that time, I will gather friends around me and hone myself in combat against the lesser evils of Tyria. It is only united that we will defeat Jormag, and to gain the aid of others I must earn their allegiance. So I will go forth, south and east and west, to protect those in need in the ways I know. I will earn a name for myself, and I swear, when I return, Jormag will tremble to hear it.
-
-![](http://f.cl.ly/items/2U3u2L0A2P183D172U2Q/gw211.jpg)
-![](http://f.cl.ly/items/2h0h2f103J3D3w3f0K1J/gw183.jpg)
+![](http://f.cl.ly/items/3k0U0v440B2D2h3U0d29/gw172.jpg)
+![](http://f.cl.ly/items/2B043K0w121o1y2B423f/gw182.jpg)
 
 ##Kinydha
 _Asura Engineer_
@@ -79,6 +79,9 @@ So I ran away in the middle of the night... well, early morning, once Zojja was 
 ![](http://f.cl.ly/items/0x2P3t3E1m3w2p3E1Y3C/gw169.jpg)
 ![](http://f.cl.ly/items/190D3u020h0F2d3o2u2E/gw179.jpg)
 
+##Rakhainna
+_Norn Mesmer_
+
 ##Jet Heartstrike ("Jet")
 _Charr Elementalist_
 
@@ -89,12 +92,5 @@ They wanted me to be one of the berserkers, carrying nothing but swords into the
 ![](http://f.cl.ly/items/0p2l0P0F3j2l2h0T1o1S/gw212.jpg)
 ![](http://f.cl.ly/items/3s110D0I081y3k1w0N1h/gw213.jpg)
 
-##Cessair Dry Eyed
-_Sylvari Mesmer_
-
-My dream... it was not one. But nor was it nightmare. It seemed a reminder of once-beautiful things now crumbled... of painful terrors still to come.
-
-Some would mourn what is lost, and what will be lost. It is my destiny to simply remember, and to face the looming horrors with dry eyes.
-
-![](http://f.cl.ly/items/032P0c2y0J0V0W1U163i/gw176.jpg)
-![](http://f.cl.ly/items/1q1R3V201R0y1y0x3X1o/gw185.jpg)
+##Miodog
+_Sylvari Thief_
