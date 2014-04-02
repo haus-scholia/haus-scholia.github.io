@@ -16,8 +16,8 @@ My people were dirt poor. I grew up in the slums of Divinity's Reach, and there 
 
 Now I'm a professional rogue, an expert at subtlety, intrigue and charm. I can blend into the crowd, or lead it when I need to. I'm also good at finding people, places, and information that are not meant to be found. When you need a nimble expert of bow, pistol and whirling daggers, I'm the woman you should look for.
 
-![](http://f.cl.ly/items/380G1O0q0K3L021X0i14/gw210.jpg)
-![](http://f.cl.ly/items/0p453b1J421Q1e2M0d09/gw184.jpg)
+![](https://www.dropbox.com/s/431samuu25culef/Nerry-11.jpg)
+![](https://www.dropbox.com/s/93ad82bgvphjrs9/Nerry-town-11.jpg)
 
 ##Friedegund Frei ("Frieda")
 _Norn Guardian_
