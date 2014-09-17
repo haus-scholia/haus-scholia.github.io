@@ -4,59 +4,64 @@ title: "Benefits :: Haus Scholia"
 published: true
 ---
 
-##Benefits: T2 Guild
+##Benefits: T4 Guild
 
-###Politics II
+###Politics IV
 <ul class="square">
 <li>Guild Emblem Template</li>
 <li>Guild Armorer Contract</li>
+<li>Guild Weapons Contract</li>
+<li>Guild Banquets</li>
 <li>Karma Buff Banners</li>
 <li>Swiftness Banners</li>
 <li>Influence Boosters</li>
+<li>Event Influence Boosters</li>
+<li>Dungeon Influence Boosters</li>
+<li>Asuran Outsourcing Contracts</li>
 </ul>
 
-###Art of War II
+###Art of War IV
 <ul class="square">
+<li>Guild Bounty Training</li>
+<li>Guild Catapults</li>
 <li>PvP Influence Boosters</li>
 <li>WvW Fort Experience Boosters</li>
 <li>WvW Fort Supply Boosters</li>
 <li>WvW Fort Magic Find Boosters</li>
+<li>WvW Fort Power Boosters</li>
+<li>WvW Fort Toughness Boosters</li>
+<li>WvW Fort Vitality Boosters</li>
+<li>WvW Fort Precision Boosters</li>
+<li>WvW Fort Healing Boosters</li>
+<li>WvW Fort Player Health Boosters</li>
 </ul>
 
-###Economy II
+###Economy IV
 <ul class="square">
 <li>Experience Buff Banners</li>
 <li>Gathering Buff Banners</li>
 <li>Magic Find Buff Banners</li>
+<li>Kill Experience Boosters</li>
+<li>Magic Find Boosters</li>
+<li>Gathering Boosters</li>
+<li>Karma Boosters</li>
 </ul>
 
-###Architecture II
+###Architecture IV
 <ul class="square">
 <li>Guild Workshop</li>
 <li>Guild Stash</li>
+<li>Guild Treasure Trove</li>
 </ul>
 
 ##Advancement Plan
 
-###Tier III
-1. Politics III (Event Influence Boosters, Asuran Outsourcing Contracts, Guild Weapons Contract)
-2. Art of War III (Guild Bounty Training, WvW Fort Power Boosters, WvW Fort Toughness Boosters, WvW Fort Vitality Boosters, WvW Fort Precision Boosters)
-3. Economy III (Kill Experience Boosters, Magic Find Boosters)
-4. Architecture III
-5. Guild Weapons Contract
-
-###Tier IV
-1. Economy IV (Gathering Boosters, Karma Boosters)
-2. Architecture IV (Guild Treasure Trove)
-3. Politics IV (Dungeon Influence Boosters, Guild Banquets)
-1. Art of War IV (WvW Fort Healing Boosters, WvW Player Health Boosters, Guild Catapults)
-
 ###Tier V
 1. Art of War V (Guild Bounties, Guild Siege Suits, Wvw Fort Swiftness Boosters)
 1. Guild Bounties Unlock (Tier 1 Bounties, Tier 2 Bounties, Tier 3 Bounties)
+1. Economy V (Guild Gathering Boosters, Guild Karma Boosters)
 1. Architecture V (Deep Cave)
 1. Deep Cave (Adds 100 slots to Guild Vault)
-1. Economy V (Guild Gathering Boosters, Guild Karma Boosters)
 1. Politics V
 
 ###Tier VI

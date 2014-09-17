@@ -1,6 +1,0 @@
----
-layout: member
-categories: roster
-title: "Ahti"
-rank: Initiate
----
