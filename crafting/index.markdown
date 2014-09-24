@@ -22,6 +22,9 @@ published: true
 ###Grandmaster
 - Ash Clawburn (Solumin)
 
+###Master
+- Neranna Taitar (Keybeeper)
+
 ##Jeweler
 
 ###Master
@@ -42,3 +45,6 @@ published: true
 - A R Nectarmancer (Keybeeper)
 
 ##Weaponsmith
+
+###Master
+- Vakanya Dolshynya (Keybeeper)
