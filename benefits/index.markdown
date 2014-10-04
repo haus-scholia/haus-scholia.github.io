@@ -20,10 +20,14 @@ published: true
 <li>Asuran Outsourcing Contracts</li>
 </ul>
 
-###Art of War IV
+###Art of War V
 <ul class="square">
 <li>Guild Bounty Training</li>
+<li>Tier 1 Bounties</li>
+<li>Tier 2 Bounties</li>
+<li>Tier 3 Bounties</li>
 <li>Guild Catapults</li>
+<li>Guild Siege Suits</li>
 <li>PvP Influence Boosters</li>
 <li>WvW Fort Experience Boosters</li>
 <li>WvW Fort Supply Boosters</li>
@@ -34,9 +38,10 @@ published: true
 <li>WvW Fort Precision Boosters</li>
 <li>WvW Fort Healing Boosters</li>
 <li>WvW Fort Player Health Boosters</li>
+<li>WvW Fort Player Swiftness Boosters</li>
 </ul>
 
-###Economy IV
+###Economy V
 <ul class="square">
 <li>Experience Buff Banners</li>
 <li>Gathering Buff Banners</li>
@@ -57,9 +62,6 @@ published: true
 ##Advancement Plan
 
 ###Tier V
-1. Art of War V (Guild Bounties, Guild Siege Suits, Wvw Fort Swiftness Boosters)
-1. Guild Bounties Unlock (Tier 1 Bounties, Tier 2 Bounties, Tier 3 Bounties)
-1. Economy V (Guild Gathering Boosters, Guild Karma Boosters)
 1. Architecture V (Deep Cave)
 1. Deep Cave (Adds 100 slots to Guild Vault)
 1. Politics V
